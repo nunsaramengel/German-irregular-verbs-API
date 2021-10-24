@@ -1,0 +1,19 @@
+{
+  "name": "german-irregular-verbs-api",
+  "version": "1.0.0",
+  "description": "API for German irregular verbs and all their forms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nunsaramengel/German-irregular-verbs-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nunsaramengel/German-irregular-verbs-API/issues"
+  },
+  "homepage": "https://github.com/nunsaramengel/German-irregular-verbs-API#readme"
+}
