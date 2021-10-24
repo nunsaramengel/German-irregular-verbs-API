@@ -34,5 +34,32 @@
         "past": "nannte",
         "past_participle": "genannt",
         "ablaut": "aa"
+    },
+    {
+        "id": 4,
+        "group": "mixed",
+        "infinitive": "rennen",
+        "present": "rennt",
+        "past": "rannte",
+        "past_participle": "gerannt",
+        "ablaut": "aa"
+    },
+    {
+        "id": 5,
+        "group": "mixed",
+        "infinitive": "brennen",
+        "present": "brennt",
+        "past": "brannte",
+        "past_participle": "gebrannt",
+        "ablaut": "aa"
+    },
+    {
+        "id": 6,
+        "group": "mixed",
+        "infinitive": "bringen",
+        "present": "bring",
+        "past": "brachte",
+        "past_participle": "gebracht",
+        "ablaut": "aa"
     }
 ]
