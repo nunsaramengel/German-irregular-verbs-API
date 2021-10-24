@@ -6,6 +6,7 @@
         "present": "denkt",
         "past": "dachte",
         "past_participle": "gedacht",
+        "perfect_aux": "haben",
         "ablaut": "aa"
     },
     {
@@ -15,6 +16,7 @@
         "present": "hat",
         "past": "hatte",
         "past_participle": "gehabt",
+        "perfect_aux": "haben",
         "ablaut": "aa"
     },
     {
@@ -24,6 +26,7 @@
         "present": "kennt",
         "past": "kannte",
         "past_participle": "gekannt",
+        "perfect_aux": "haben",
         "ablaut": "aa"
     },
     {
@@ -33,6 +36,7 @@
         "present": "nennt",
         "past": "nannte",
         "past_participle": "genannt",
+        "perfect_aux": "haben",
         "ablaut": "aa"
     },
     {
@@ -42,6 +46,7 @@
         "present": "rennt",
         "past": "rannte",
         "past_participle": "gerannt",
+        "perfect_aux": "sein",
         "ablaut": "aa"
     },
     {
@@ -51,15 +56,319 @@
         "present": "brennt",
         "past": "brannte",
         "past_participle": "gebrannt",
+        "perfect_aux": "haben",
         "ablaut": "aa"
     },
     {
         "id": 6,
         "group": "mixed",
         "infinitive": "bringen",
-        "present": "bring",
+        "present": "bringt",
         "past": "brachte",
         "past_participle": "gebracht",
+        "perfect_aux": "haben",
         "ablaut": "aa"
+    },
+    {
+        "id": 7,
+        "group": "mixed",
+        "infinitive": "senden",
+        "present": "sendet",
+        "past": "sandte",
+        "past2": "sendete",
+        "past_participle": "gesandt",
+        "past_participle2": "gesendet",
+        "perfect_aux": "haben",
+        "ablaut": "aa"
+    },
+    {
+        "id": 8,
+        "group": "strong",
+        "infinitive": "stehen",
+        "present": "steht",
+        "past": "stand",
+        "past_participle": "gestanden",
+        "perfect_aux": "haben",
+        "perfect_aux2": "sein",
+        "ablaut": "aa"
+    },
+    {
+        "id": 9,
+        "group": "strong",
+        "infinitive": "tun",
+        "present": "tut",
+        "past": "tat",
+        "past_participle": "getan",
+        "perfect_aux": "haben",
+        "ablaut": "aa"
+    },
+    {
+        "id": 10,
+        "group": "mixed",
+        "infinitive": "wenden",
+        "present": "wendet",
+        "past": "wandte",
+        "past2": "wendete",
+        "past_participle": "gewandt",
+        "past_participle2": "gewendet",
+        "perfect_aux": "haben",
+        "perfect_aux2": "sein",
+        "ablaut": "aa"
+    },
+    {
+        "id": 11,
+        "group": "strong",
+        "infinitive": "bitten",
+        "present": "bittet",
+        "past": "bat",
+        "past_participle": "gebeten",
+        "perfect_aux": "haben",
+        "ablaut": "ae"
+    },
+    {
+        "id": 12,
+        "group": "strong",
+        "infinitive": "essen",
+        "present": "isst",
+        "past": "aß",
+        "past_participle": "gegessen",
+        "perfect_aux": "haben",
+        "ablaut": "ae"
+    },
+    {
+        "id": 13,
+        "group": "strong",
+        "infinitive": "fressen",
+        "present": "frisst",
+        "past": "fraß",
+        "past_participle": "gefressen",
+        "perfect_aux": "haben",
+        "ablaut": "ae"
+    },
+    {
+        "id": 14,
+        "group": "strong",
+        "infinitive": "geben",
+        "present": "gibt",
+        "past": "gab",
+        "past_participle": "gegeben",
+        "perfect_aux": "haben",
+        "ablaut": "ae"
+    },
+    {
+        "id": 15,
+        "group": "strong",
+        "infinitive": "geschehen",
+        "present": "geschieht",
+        "past": "geschah",
+        "past_participle": "geschehen",
+        "perfect_aux": "sein",
+        "ablaut": "ae"
+    },
+    {
+        "id": 16,
+        "group": "strong",
+        "infinitive": "lesen",
+        "present": "liest",
+        "past": "las",
+        "past_participle": "gelesen",
+        "perfect_aux": "haben",
+        "ablaut": "ae"
+    },
+    {
+        "id": 17,
+        "group": "strong",
+        "infinitive": "liegen",
+        "present": "liegt",
+        "past": "lag",
+        "past_participle": "gelegen",
+        "perfect_aux": "haben",
+        "perfect_aux2": "sein",
+        "ablaut": "ae"
+    },
+    {
+        "id": 18,
+        "group": "strong",
+        "infinitive": "messen",
+        "present": "misst",
+        "past": "maß",
+        "past_participle": "gemessen",
+        "perfect_aux": "haben",
+        "ablaut": "ae"
+    },
+    {
+        "id": 19,
+        "group": "strong",
+        "infinitive": "sehen",
+        "present": "sieht",
+        "past": "sah",
+        "past_participle": "gesehen",
+        "perfect_aux": "haben",
+        "ablaut": "ae"
+    },
+    {
+        "id": 20,
+        "group": "strong",
+        "infinitive": "sein",
+        "present": "ist",
+        "past": "war",
+        "past_participle": "gewesen",
+        "perfect_aux": "sein",
+        "ablaut": "ae"
+    },
+    {
+        "id": 21,
+        "group": "strong",
+        "infinitive": "sitzen",
+        "present": "sitzt",
+        "past": "saß",
+        "past_participle": "gesessen",
+        "perfect_aux": "hat",
+        "perfect_aux2": "sein",
+        "ablaut": "ae"
+    },
+    {
+        "id": 22,
+        "group": "strong",
+        "infinitive": "treten",
+        "present": "tritt",
+        "past": "trat",
+        "past_participle": "getreten",
+        "perfect_aux": "haben",
+        "perfect_aux2": "sein",
+        "ablaut": "ae"
+    },
+    {
+        "id": 23,
+        "group": "strong",
+        "infinitive": "vergessen",
+        "present": "vergisst",
+        "past": "vergaß",
+        "past_participle": "vergessen",
+        "perfect_aux": "haben",
+        "ablaut": "ae"
+    },
+    {
+        "id": 24,
+        "group": "strong",
+        "infinitive": "befehlen",
+        "present": "befiehlt",
+        "past": "befahl",
+        "past_participle": "befohlen",
+        "perfect_aux": "haben",
+        "ablaut": "ao"
+    },
+    {
+        "id": 25,
+        "group": "strong",
+        "infinitive": "beginnen",
+        "present": "beginnt",
+        "past": "begann",
+        "past_participle": "begonnen",
+        "perfect_aux": "haben",
+        "ablaut": "ao"
+    },
+    {
+        "id": 26,
+        "group": "strong",
+        "infinitive": "brechen",
+        "present": "bricht",
+        "past": "brach",
+        "past_participle": "gebrochen",
+        "perfect_aux": "haben",
+        "ablaut": "ao"
+    },
+    {
+        "id": 27,
+        "group": "strong",
+        "infinitive": "empfehlen",
+        "present": "empfiehlt",
+        "past": "empfahl",
+        "past_participle": "empfohlen",
+        "perfect_aux": "haben",
+        "ablaut": "ao"
+    },
+    {
+        "id": 28,
+        "group": "strong",
+        "infinitive": "erschrecken",
+        "present": "erschrickt",
+        "past": "erschrak",
+        "past_participle": "erschrocken",
+        "perfect_aux": "sein",
+        "perfect_aux2": "haben",
+        "ablaut": "ao"
+    },
+    {
+        "id": 29,
+        "group": "strong",
+        "infinitive": "gelten",
+        "present": "gilt",
+        "past": "galt",
+        "past_participle": "gegolten",
+        "perfect_aux": "haben",
+        "ablaut": "ao"
+    },
+    {
+        "id": 30,
+        "group": "strong",
+        "infinitive": "gewinnen",
+        "present": "gewinnt",
+        "past": "gewann",
+        "past_participle": "gewonnen",
+        "perfect_aux": "haben",
+        "ablaut": "ao"
+    },
+    {
+        "id": 31,
+        "group": "strong",
+        "infinitive": "helfen",
+        "present": "hilft",
+        "past": "half",
+        "past_participle": "geholfen",
+        "perfect_aux": "haben",
+        "ablaut": "ao"
+    },
+    {
+        "id": 32,
+        "group": "strong",
+        "infinitive": "kommen",
+        "present": "kommt",
+        "past": "kam",
+        "past_participle": "gekommen",
+        "perfect_aux": "sein",
+        "ablaut": "ao"
+    },
+    {
+        "id": 33,
+        "group": "strong",
+        "infinitive": "nehmen",
+        "present": "nimmt",
+        "past": "nahm",
+        "past_participle": "genommen",
+        "perfect_aux": "haben",
+        "ablaut": "ao"
+    },
+    {
+        "id": 34,
+        "group": "strong",
+        "infinitive": "schwimmen",
+        "present": "schwimmen",
+        "past": "schwamm",
+        "past_participle": "geschwommen",
+        "perfect_aux": "sein",
+        "perfect_aux2": "haben",
+        "ablaut": "ao"
+    },
+    {
+        "id": 35,
+        "group": "strong",
+        "infinitive": "sprechen",
+        "present": "spricht",
+        "past": "sprach",
+        "past_participle": "gesprochen",
+        "perfect_aux": "haben",
+        "ablaut": "ao"
     }
+
 ]
