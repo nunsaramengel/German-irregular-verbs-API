@@ -18,5 +18,6 @@
   "homepage": "https://github.com/nunsaramengel/German-irregular-verbs-API#readme",
   "dependencies": {
     "json-server": "^0.17.0"
-  }
+  },
+  "devDependencies": {}
 }
