@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "group": "mixed",
+        "infinitive": "denken",
+        "present": "denkt",
+        "past": "dachte",
+        "past_participle": "gedacht",
+        "ablaut": "aa"
+    },
+    {
+        "id": 1,
+        "group": "mixed",
+        "infinitive": "haben",
+        "present": "hat",
+        "past": "hatte",
+        "past_participle": "gehabt",
+        "ablaut": "aa"
+    },
+    {
+        "id": 2,
+        "group": "mixed",
+        "infinitive": "kennen",
+        "present": "kennt",
+        "past": "kannte",
+        "past_participle": "gekannt",
+        "ablaut": "aa"
+    },
+    {
+        "id": 3,
+        "group": "mixed",
+        "infinitive": "nennen",
+        "present": "nennt",
+        "past": "nannte",
+        "past_participle": "genannt",
+        "ablaut": "aa"
+    }
+]
