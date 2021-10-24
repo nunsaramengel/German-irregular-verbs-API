@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nunsaramengel/German-irregular-verbs-API/issues"
   },
-  "homepage": "https://github.com/nunsaramengel/German-irregular-verbs-API#readme"
+  "homepage": "https://github.com/nunsaramengel/German-irregular-verbs-API#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
 }
