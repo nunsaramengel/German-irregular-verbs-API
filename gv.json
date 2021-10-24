@@ -1,4 +1,5 @@
-{
+{ "verbs":
+    [
     {
         "id": 0,
         "group": "mixed",
@@ -1714,5 +1715,5 @@
         "imperative": "weiß(wisse)",
         "ablaut": "uu"
     }
-
+    ]
 }
