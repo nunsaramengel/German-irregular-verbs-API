@@ -7,6 +7,8 @@
         "past": "dachte",
         "past_participle": "gedacht",
         "perfect_aux": "haben",
+        "conjunctive2": "dächt",
+        "imperative": "denk(e)",
         "ablaut": "aa"
     },
     {
@@ -17,6 +19,8 @@
         "past": "hatte",
         "past_participle": "gehabt",
         "perfect_aux": "haben",
+        "conjunctive2": "hätt",
+        "imperative": "hab(e)",
         "ablaut": "aa"
     },
     {
@@ -27,6 +31,8 @@
         "past": "kannte",
         "past_participle": "gekannt",
         "perfect_aux": "haben",
+        "conjunctive2": "kennt",
+        "imperative": "kenn(e)",
         "ablaut": "aa"
     },
     {
@@ -37,6 +43,8 @@
         "past": "nannte",
         "past_participle": "genannt",
         "perfect_aux": "haben",
+        "conjunctive2": "nennt",
+        "imperative": "nenn(e)",
         "ablaut": "aa"
     },
     {
@@ -47,6 +55,8 @@
         "past": "rannte",
         "past_participle": "gerannt",
         "perfect_aux": "sein",
+        "conjunctive2": "rennt",
+        "imperative": "renn(e)",
         "ablaut": "aa"
     },
     {
@@ -57,6 +67,8 @@
         "past": "brannte",
         "past_participle": "gebrannt",
         "perfect_aux": "haben",
+        "conjunctive2": "brennt",
+        "imperative": "brenn(e)",
         "ablaut": "aa"
     },
     {
@@ -67,6 +79,8 @@
         "past": "brachte",
         "past_participle": "gebracht",
         "perfect_aux": "haben",
+        "conjunctive2": "brächt",
+        "imperative": "bring(e)",
         "ablaut": "aa"
     },
     {
@@ -79,6 +93,8 @@
         "past_participle": "gesandt",
         "past_participle2": "gesendet",
         "perfect_aux": "haben",
+        "conjunctive2": "sendet",
+        "imperative": "send(e)",
         "ablaut": "aa"
     },
     {
@@ -90,6 +106,9 @@
         "past_participle": "gestanden",
         "perfect_aux": "haben",
         "perfect_aux2": "sein",
+        "conjunctive2": "stünd",
+        "conjunctive2_2": "ständ",
+        "imperative": "steh(e)",
         "ablaut": "aa"
     },
     {
@@ -100,6 +119,8 @@
         "past": "tat",
         "past_participle": "getan",
         "perfect_aux": "haben",
+        "conjunctive2": "tät",
+        "imperative": "tu(e)",
         "ablaut": "aa"
     },
     {
@@ -113,6 +134,8 @@
         "past_participle2": "gewendet",
         "perfect_aux": "haben",
         "perfect_aux2": "sein",
+        "conjunctive2": "wendet",
+        "imperative": "wend(e)",
         "ablaut": "aa"
     },
     {
@@ -123,6 +146,8 @@
         "past": "bat",
         "past_participle": "gebeten",
         "perfect_aux": "haben",
+        "conjunctive2": "bät",
+        "imperative": "bitt(e)",
         "ablaut": "ae"
     },
     {
@@ -133,6 +158,8 @@
         "past": "aß",
         "past_participle": "gegessen",
         "perfect_aux": "haben",
+        "conjunctive2": "äß",
+        "imperative": "iss",
         "ablaut": "ae"
     },
     {
@@ -143,6 +170,8 @@
         "past": "fraß",
         "past_participle": "gefressen",
         "perfect_aux": "haben",
+        "conjunctive2": "fräß",
+        "imperative": "friss",
         "ablaut": "ae"
     },
     {
@@ -153,6 +182,8 @@
         "past": "gab",
         "past_participle": "gegeben",
         "perfect_aux": "haben",
+        "conjunctive2": "gäb",
+        "imperative": "gib",
         "ablaut": "ae"
     },
     {
@@ -163,6 +194,8 @@
         "past": "geschah",
         "past_participle": "geschehen",
         "perfect_aux": "sein",
+        "conjunctive2": "geschäh",
+        "imperative": "gescheh(e)",
         "ablaut": "ae"
     },
     {
@@ -173,6 +206,8 @@
         "past": "las",
         "past_participle": "gelesen",
         "perfect_aux": "haben",
+        "conjunctive2": "läs",
+        "imperative": "lies",
         "ablaut": "ae"
     },
     {
@@ -184,6 +219,8 @@
         "past_participle": "gelegen",
         "perfect_aux": "haben",
         "perfect_aux2": "sein",
+        "conjunctive2": "läg",
+        "imperative": "lieg(e)",
         "ablaut": "ae"
     },
     {
@@ -194,6 +231,8 @@
         "past": "maß",
         "past_participle": "gemessen",
         "perfect_aux": "haben",
+        "conjunctive2": "mäß",
+        "imperative": "miss",
         "ablaut": "ae"
     },
     {
@@ -204,6 +243,8 @@
         "past": "sah",
         "past_participle": "gesehen",
         "perfect_aux": "haben",
+        "conjunctive2": "säh",
+        "imperative": "sieh",
         "ablaut": "ae"
     },
     {
@@ -214,6 +255,8 @@
         "past": "war",
         "past_participle": "gewesen",
         "perfect_aux": "sein",
+        "conjunctive2": "wär",
+        "imperative": "sei",
         "ablaut": "ae"
     },
     {
@@ -225,6 +268,8 @@
         "past_participle": "gesessen",
         "perfect_aux": "hat",
         "perfect_aux2": "sein",
+        "conjunctive2": "säß",
+        "imperative": "sitz(e)",
         "ablaut": "ae"
     },
     {
@@ -236,6 +281,8 @@
         "past_participle": "getreten",
         "perfect_aux": "haben",
         "perfect_aux2": "sein",
+        "conjunctive2": "trät",
+        "imperative": "tritt",
         "ablaut": "ae"
     },
     {
@@ -246,6 +293,8 @@
         "past": "vergaß",
         "past_participle": "vergessen",
         "perfect_aux": "haben",
+        "conjunctive2": "vergäß",
+        "imperative": "vergiss",
         "ablaut": "ae"
     },
     {
@@ -256,6 +305,9 @@
         "past": "befahl",
         "past_participle": "befohlen",
         "perfect_aux": "haben",
+        "conjunctive2": "befähl",
+        "conjunctive2_2": "beföhl",
+        "imperative": "befiehl",
         "ablaut": "ao"
     },
     {
@@ -266,6 +318,9 @@
         "past": "begann",
         "past_participle": "begonnen",
         "perfect_aux": "haben",
+        "conjunctive2": "begänn",
+        "conjunctive2_2": "begönn",
+        "imperative": "beginn(e)",
         "ablaut": "ao"
     },
     {
@@ -276,6 +331,8 @@
         "past": "brach",
         "past_participle": "gebrochen",
         "perfect_aux": "haben",
+        "conjunctive2": "bräch",
+        "imperative": "brich",
         "ablaut": "ao"
     },
     {
@@ -286,6 +343,9 @@
         "past": "empfahl",
         "past_participle": "empfohlen",
         "perfect_aux": "haben",
+        "conjunctive2": "empfähl",
+        "conjunctive2_2": "empföhl",
+        "imperative": "empfiehl",
         "ablaut": "ao"
     },
     {
@@ -297,6 +357,8 @@
         "past_participle": "erschrocken",
         "perfect_aux": "sein",
         "perfect_aux2": "haben",
+        "conjunctive2": "erschräk",
+        "imperative": "erschrick",
         "ablaut": "ao"
     },
     {
@@ -307,6 +369,9 @@
         "past": "galt",
         "past_participle": "gegolten",
         "perfect_aux": "haben",
+        "conjunctive2": "gält",
+        "conjunctive2_2": "gölt",
+        "imperative": "gilt",
         "ablaut": "ao"
     },
     {
@@ -317,6 +382,9 @@
         "past": "gewann",
         "past_participle": "gewonnen",
         "perfect_aux": "haben",
+        "conjunctive2": "gewänn",
+        "conjunctive2_2": "gewönn",
+        "imperative": "gewinn(e)",
         "ablaut": "ao"
     },
     {
@@ -327,6 +395,9 @@
         "past": "half",
         "past_participle": "geholfen",
         "perfect_aux": "haben",
+        "conjunctive2": "hälf",
+        "conjunctive2_2": "hülf",
+        "imperative": "hilf",
         "ablaut": "ao"
     },
     {
@@ -337,6 +408,8 @@
         "past": "kam",
         "past_participle": "gekommen",
         "perfect_aux": "sein",
+        "conjunctive2": "käm",
+        "imperative": "komm(e)",
         "ablaut": "ao"
     },
     {
@@ -347,6 +420,8 @@
         "past": "nahm",
         "past_participle": "genommen",
         "perfect_aux": "haben",
+        "conjunctive2": "nähm",
+        "imperative": "nimm",
         "ablaut": "ao"
     },
     {
@@ -358,6 +433,9 @@
         "past_participle": "geschwommen",
         "perfect_aux": "sein",
         "perfect_aux2": "haben",
+        "conjunctive2": "schwämm",
+        "conjunctive2_2": "schwömm",
+        "imperative": "schwimm",
         "ablaut": "ao"
     },
     {
@@ -368,7 +446,106 @@
         "past": "sprach",
         "past_participle": "gesprochen",
         "perfect_aux": "haben",
+        "conjunctive2": "spräch",
+        "imperative": "sprich",
         "ablaut": "ao"
+    },
+    {
+        "id": 36,
+        "group": "strong",
+        "infinitive": "stechen",
+        "present": "sticht",
+        "past": "stach",
+        "past_participle": "gestochen",
+        "perfect_aux": "haben",
+        "conjunctive2": "stäch",
+        "imperative": "stich",
+        "ablaut": "ao"
+    },
+    {
+        "id": 37,
+        "group": "strong",
+        "infinitive": "stehlen",
+        "present": "stiehlt",
+        "past": "stahl",
+        "past_participle": "gestohlen",
+        "perfect_aux": "haben",
+        "conjunctive2": "stähl",
+        "conjunctive2_2": "stöhl",
+        "imperative": "stiehl",
+        "ablaut": "ao"
+    },
+    {
+        "id": 38,
+        "group": "strong",
+        "infinitive": "sterben",
+        "present": "stirbt",
+        "past": "starb",
+        "past_participle": "gestorben",
+        "perfect_aux": "sein",
+        "conjunctive2": "stürb",
+        "imperative": "stirb",
+        "ablaut": "ao"
+    },
+    {
+        "id": 39,
+        "group": "strong",
+        "infinitive": "treffen",
+        "present": "trifft",
+        "past": "traf",
+        "past_participle": "getroffen",
+        "perfect_aux": "haben",
+        "conjunctive2": "träf",
+        "imperative": "triff",
+        "ablaut": "ao"
+    },
+    {
+        "id": 40,
+        "group": "strong",
+        "infinitive": "verderben",
+        "present": "verdirbt",
+        "past": "verdarb",
+        "past_participle": "verdorben",
+        "perfect_aux": "sein",
+        "conjunctive2": "verdürb",
+        "imperative": "verdirb",
+        "ablaut": "ao"
+    },
+    {
+        "id": 41,
+        "group": "strong",
+        "infinitive": "werben",
+        "present": "wirbt",
+        "past": "warb",
+        "past_participle": "geworben",
+        "perfect_aux": "haben",
+        "conjunctive2": "würb",
+        "imperative": "wirb",
+        "ablaut": "ao"
+    },
+    {
+        "id": 42,
+        "group": "strong",
+        "infinitive": "werfen",
+        "present": "wirft",
+        "past": "warf",
+        "past_participle": "geworfen",
+        "perfect_aux": "haben",
+        "conjunctive2": "würf",
+        "imperative": "wirf",
+        "ablaut": "ao"
+    },
+    {
+        "id": 43,
+        "group": "strong",
+        "infinitive": "binden",
+        "present": "bindet",
+        "past": "band",
+        "past_participle": "gebunden",
+        "perfect_aux": "haben",
+        "conjunctive2": "bänd",
+        "imperative": "bind(e)",
+        "ablaut": "au"
     }
 
 ]
