@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/nunsaramengel/German-irregular-verbs-API.git"
   },
-  "author": "",
+  "author": "Sebastian Kempe",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nunsaramengel/German-irregular-verbs-API/issues"
